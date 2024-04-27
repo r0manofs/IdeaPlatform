@@ -16,4 +16,4 @@ java, которая прочитает файл tickets.json и
   поставленные вопросы и ссылку на исходный код.</i></p>
   
   <h2>Результат работы</h2>
-![](https://github.com/r0manofs/Images/raw/main/IdeaPlatformResult.jfif](https://github.com/r0manofs/Images/blob/main/IdeaPlatformResult.jfif)
+<img src="https://github.com/r0manofs/Images/blob/main/IdeaPlatformResult.jfif" width="940" height="587"/>
