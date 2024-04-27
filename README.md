@@ -14,3 +14,6 @@ java, которая прочитает файл tickets.json и
 </ul>
   <p><i>В качестве результата нужно прислать ответы на
   поставленные вопросы и ссылку на исходный код.</i></p>
+  
+  <h2>Результат работы</h2>
+![](https://github.com/r0manofs/Images/raw/main/IdeaPlatformResult.jfif](https://github.com/r0manofs/Images/blob/main/IdeaPlatformResult.jfif)
